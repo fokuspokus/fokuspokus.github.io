@@ -1,5 +1,5 @@
 +++
-title = 'Another_test'
+title = 'Another Test'
 date = 2024-02-05T14:06:11+04:00
 draft = false
 +++
